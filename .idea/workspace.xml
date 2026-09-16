@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d278522-ef1c-493d-bf15-4437aa0e84e3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/EjerciciosGrupo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ActividadArreglosMatrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/EjerciciosGrupo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "rama-ejercicios-1-10",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
