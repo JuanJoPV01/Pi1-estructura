@@ -1,4 +1,4 @@
-package com.ejercicio24; // Asegúrate de mantener la primera línea con tu paquete tal como aparece en tu IDE
+package com.ejercicio24;
 
 import java.util.Arrays;
 import java.util.Random;
