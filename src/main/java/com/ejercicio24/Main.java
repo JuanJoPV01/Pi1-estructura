@@ -8,23 +8,26 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("\n=============================================");
-            System.out.println("   MENÚ DE ACTIVIDADES (1 AL 25) ");
-            System.out.println("=============================================");
-            System.out.println("1. Analizador Calificaciones     14. Secuencias Numéricas");
-            System.out.println("2. Compresor de Texto           15. Búsqueda Rutas Matriz");
-            System.out.println("3. Juego del Ahorcado           16. Conecta 4");
-            System.out.println("4. Sistema de Inventario        17. Simulador Cajero Auto.");
-            System.out.println("5. Agenda Telefónica            18. Mezclador Canciones");
-            System.out.println("6. Analizador Archivos Num.     19. Datos Climáticos");
-            System.out.println("7. Simulador de Ventas          20. Editor Imagen Escala Grises");
-            System.out.println("8. Generador Contraseñas        21. Turnos Peluquería");
-            System.out.println("9. Conversor de Base            22. Sistema de Parqueadero");
-            System.out.println("10. Analizador de Texto         23. Semáforo Inteligente");
-            System.out.println("11. Sudoku Validator            24. Registro Pedidos Cafetería");
-            System.out.println("12. Simulador de Torneo         25. Sala de Cómputo");
-            System.out.println("13. Historial Temperaturas       0. Salir");
-            System.out.print("Selecciona el ejercicio a ejecutar (0-25): ");
+            System.out.println("\n============================================================");
+            System.out.println("   MENÚ MASTER DE ACTIVIDADES COMPLETAS (1 AL 30) ");
+            System.out.println("============================================================");
+            System.out.println("1. Analizador Calificaciones     16. Conecta 4");
+            System.out.println("2. Compresor de Texto           17. Simulador Cajero Auto.");
+            System.out.println("3. Juego del Ahorcado           18. Mezclador Canciones");
+            System.out.println("4. Sistema de Inventario        19. Datos Climáticos");
+            System.out.println("5. Agenda Telefónica            20. Editor Imagen Escala Grises");
+            System.out.println("6. Analizador Archivos Num.     21. Turnos Peluquería");
+            System.out.println("7. Simulador de Ventas          22. Sistema de Parqueadero");
+            System.out.println("8. Generador Contraseñas        23. Semáforo Inteligente");
+            System.out.println("9. Conversor de Base            24. Registro Pedidos Cafetería");
+            System.out.println("10. Analizador de Texto         25. Sala de Cómputo");
+            System.out.println("11. Sudoku Validator            26. Asientos de Cine");
+            System.out.println("12. Simulador de Torneo         27. Registro Llamadas");
+            System.out.println("13. Historial Temperaturas      28. Control Entregas Paquetes");
+            System.out.println("14. Secuencias Numéricas        29. Turnos de Banco");
+            System.out.println("15. Búsqueda Rutas Matriz       30. Transporte Público");
+            System.out.println("0. Salir");
+            System.out.print("Selecciona el ejercicio a ejecutar (0-30): ");
 
             opcion = sc.nextInt();
 
@@ -54,6 +57,11 @@ public class Main {
                 case 23 -> EjerciciosGrupo5.ejercicio23();
                 case 24 -> EjerciciosGrupo5.ejercicio24(sc);
                 case 25 -> EjerciciosGrupo5.ejercicio25(sc);
+                case 26 -> EjerciciosGrupo6.ejercicio26(sc);
+                case 27 -> EjerciciosGrupo6.ejercicio27(sc);
+                case 28 -> EjerciciosGrupo6.ejercicio28(sc);
+                case 29 -> EjerciciosGrupo6.ejercicio29(sc);
+                case 30 -> EjerciciosGrupo6.ejercicio30(sc);
                 case 0 -> System.out.println("Saliendo del programa.");
                 default -> System.out.println("Opción no válida.");
             }
