@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d278522-ef1c-493d-bf15-4437aa0e84e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/EjerciciosGrupo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ActividadArreglosMatrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "rama-ejercicios-1-10",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,16 +71,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/../ActividadArreglosMatrices/src/main/java/com/ejercicio24/Main.java</url>
-          <line>54</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
